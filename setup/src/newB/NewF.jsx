@@ -7,6 +7,8 @@ const NewF = () => {
         lglrr;glkrel;rgjj
 changes made for the branch checking
         fkjdkdk
+
+        changessssssssssssssss maddddddddddeeeeeeeee in the newB branch
     </div>
   )
 }
