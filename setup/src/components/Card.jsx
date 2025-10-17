@@ -14,3 +14,5 @@ export default Card;
 //forking- SSH , HTTPS 
 // resting renaming rebasing managing
 // origin impotance in forking 
+
+// some changes are made to see the working of git commit -am 
