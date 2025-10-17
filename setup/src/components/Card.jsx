@@ -5,6 +5,7 @@ const Card = ({ title = 'Card Title', children = 'This is an example card. Repla
 	return (
 		<div className="card" role="article" aria-label={title}>
 			It is the card component 
+			changes are made here to see the git status and git diff working properly
 		</div>
 	);
 };
