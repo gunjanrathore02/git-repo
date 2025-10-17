@@ -5,8 +5,10 @@ const NewF = () => {
     <div>NewF
 
         lglrr;glkrel;rgjj
+changes made for the branch checking
+        fkjdkdkf
 
-        fkjdkdk
+        changessssssssssssssss maddddddddddeeeeeeeee in the newB branch
     </div>
   )
 }
