@@ -9,11 +9,7 @@
   border: 1px solid rgba(16, 24, 40, 0.04);
   transition: transform 150ms ease, box-shadow 150ms ease;
 }
-
-.card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 18px 40px rgba(34, 60, 80, 0.12);
-}
+/* ijog */
 
 .card__title {
   margin: 0 0 0.5rem 0;
