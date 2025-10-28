@@ -44,9 +44,6 @@ const Card = ({ title = 'Card Title', children = 'This is an example card. Repla
 };
 
 export default Card;
-//forking- SSH , HTTPS 
-// resting renaming rebasing managing
-// origin impotance in forking 
 
 
 // some changes are made to see t
