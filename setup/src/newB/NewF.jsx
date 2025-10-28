@@ -2,13 +2,8 @@ import React from 'react'
 
 const NewF = () => {
   return (
-    <div>NewF
-
-        lglrr;glkrel;rgjj
-changes made for the branch checking
-        fkjdkdkf
-
-        changessssssssssssssss maddddddddddeeeeeeeee in the newB branch
+    <div>
+      changes made in the first commit....
     </div>
   )
 }
